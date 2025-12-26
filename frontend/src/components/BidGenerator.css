@@ -1556,7 +1556,8 @@ body {
 
 /* Footer Styles */
 .footer {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(
+215deg, #000000 0%, #bbbcdd 100%);
   color: white;
   padding: 2rem 2rem;
   margin-top: 3rem;
@@ -1600,13 +1601,13 @@ body {
   font-size: 0.95rem;
   padding: 0.625rem 1.25rem;
   border-radius: 10px;
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(188, 33, 33, 0.15);
   transition: all 0.3s ease;
   backdrop-filter: blur(10px);
 }
 
 .footer-link:hover {
-  background: rgba(255, 255, 255, 0.25);
+  background: rgba(199, 201, 193, 0.25);
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
