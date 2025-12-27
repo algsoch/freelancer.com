@@ -266,7 +266,6 @@ Based on analysis of My winning vs. losing bids:
 
 ## Future Enhancements
 
-- Web interface for easier usage
 -  Real-time Upwork/Freelancer integration
 -  A/B testing different bid strategies
 -  Automatic bid success tracking
