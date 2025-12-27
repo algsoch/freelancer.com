@@ -187,7 +187,7 @@ Creates a personalized, professional bid:
 - Professional but approachable tone
 - Optimal length (100-250 words)
 
-###💡 Tips for Winning Bids
+##💡 Tips for Winning Bids
 
 Based on analysis of winning vs. losing bids:
 
@@ -224,17 +224,6 @@ Based on analysis of winning vs. losing bids:
 - Backend: Make sure you ran `pip install -r backend/requirements.txt`
 - Frontend: Make sure you ran `npm install` in the frontend directory
 
-## 🚀 Future Enhancements
-
-- [ ] Save and track bid history
-- [ ] Learning from your successful/failed bids
-- [ ] Multi-language bid generation
-- [ ] Budget recommendation engine
-- [ ] Chrome extension for one-click generation
-- [ ] Integration with Upwork/Freelancer APIs
-- [ ] A/B testing different bid strategies
-- [ ] Email notifications for bid responses
-
 ## 📝 License
 
 MIT License - feel free to customize for your needs.
@@ -259,7 +248,7 @@ Contributions are welcome! Feel free to:
 2. Generate an API key
 3. Add to `.env` as `ANTHROPIC_API_KEY Tips for Winning Bids
 
-Based on analysis of your winning vs. losing bids:
+Based on analysis of My winning vs. losing bids:
 
 ✅ **DO:**
 - Keep bids concise (3-5 short paragraphs)
@@ -277,12 +266,12 @@ Based on analysis of your winning vs. losing bids:
 
 ## Future Enhancements
 
-- [ ] Web interface for easier usage
-- [ ] Real-time Upwork/Freelancer integration
-- [ ] A/B testing different bid strategies
-- [ ] Automatic bid success tracking
-- [ ] Multi-language support
-- [ ] Budget recommendation engine
+- Web interface for easier usage
+-  Real-time Upwork/Freelancer integration
+-  A/B testing different bid strategies
+-  Automatic bid success tracking
+-  Multi-language support
+-  Budget recommendation engine
 
 ## License
 
